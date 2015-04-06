@@ -1,2 +1,2 @@
-My hobbies include music, golf, basketball and video/computer games.  I'm married, have 1 dog named Utley, and recently became a first time uncle.  
+My hobbies include music, golf, basketball and video/computer games.  I'm married, have 1 dog named Utley, and recently became a first time uncle.  I also love to travel.  I've been to the UK, Jamaica, Bermuda, Riviera Maya and have seen most of the United States.  A few years ago I flew to Denver and took an 8,000 mile road trip across the western half of the United States. 
 Programming Experience
