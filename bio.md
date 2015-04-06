@@ -1,3 +1,4 @@
 My hobbies include music, golf, basketball and video/computer games.  I'm married, have 1 dog named Utley, and recently became a first time uncle.  
 Programming Experience
 My programming experience mainly consists of the work I've done in CS 161 and CS 162.  I actually enjoyed CS 162 much more than 161 because the assignments we were given and because I felt like my skills had improved drastically.  I really enjoyed using polymorphism and inheritence to create a battle simulation game.  I've had very basic introductions to programming in the past, but really those two classes have been it for me.  
+I've also had a lot of experience with Microsoft Excel.  I actually didn't realize at the time that this was in fact considered programming.  However, I see how the basic skills transfer over to the work I did in 161 and 162.  
